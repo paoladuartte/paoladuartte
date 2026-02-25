@@ -1,7 +1,7 @@
 ## 👋 Olá, tudo bem? Bem vindo ao meu Git HUb
 
 Oi, eu sou a **Paola Duarte de Matos Peres**!  
-💻 Estudante de **Ciênia da Computação** com formação prévia em Design Gráfico.&&
+💻 Estudante de **Ciênia da Computação** com formação prévia em Design Gráfico.
 🚀 Possuo interesse em desenvolvimento de software, análise e modelagem de banco de dados e
 segurança da informação. Apresento perfil analítico, organização, facilidade de aprendizado e
 motivação para aplicar e expandir meus conhecimentos na área de tecnologia. 
@@ -16,6 +16,8 @@ motivação para aplicar e expandir meus conhecimentos na área de tecnologia.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Tecnologias que conheço
+![Photoshop](https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png)
 ---
 
 <!--
