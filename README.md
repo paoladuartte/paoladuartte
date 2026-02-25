@@ -15,9 +15,6 @@ motivação para aplicar e expandir meus conhecimentos na área de tecnologia.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Tecnologias que conheço
-![Photoshop](https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png)
 ---
 
 <!--
