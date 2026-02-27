@@ -1,10 +1,10 @@
 ## 👋 Olá, tudo bem? Bem vindo ao meu Git Hub
 
 Oi, eu sou a **Paola Duarte de Matos Peres**!  
-💻 Estudante de **Ciênia da Computação** com formação prévia em Design Gráfico.
-🚀 Possuo interesse em desenvolvimento de software, análise e modelagem de banco de dados e
-segurança da informação. Apresento perfil analítico, organização, facilidade de aprendizado e
-motivação para aplicar e expandir meus conhecimentos na área de tecnologia. 
+  💻 Estudante de **Ciênia da Computação** com formação prévia em Design Gráfico.
+  🚀 Possuo interesse em desenvolvimento de software, análise e modelagem de banco de dados e
+  segurança da informação. Apresento perfil analítico, organização, facilidade de aprendizado e
+  motivação para aplicar e expandir meus conhecimentos na área de tecnologia. 
 
 ---
 
