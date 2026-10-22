@@ -4,9 +4,6 @@
   </a>
 </div>
 
-<div>
-<img align="right" width="26%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
-</div>
 
 ![](https://komarev.com/ghpvc/?username=paoladuartte&color=blueviolet&style=flat)  
 💻 Bacharelado em Ciência da Computação - 4° período  
